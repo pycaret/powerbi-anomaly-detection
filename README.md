@@ -1,6 +1,6 @@
 # Build and first anomaly detector in Power BI using PyCaret
 A step-by-step tutorial for implementing anomaly detection
-Read the complete post: XXX
+Read the complete post: https://medium.com/@moez_62905/build-your-first-anomaly-detector-in-power-bi-using-pycaret-2b41b363244e
 
 Official Website : https://www.pycaret.org
 
